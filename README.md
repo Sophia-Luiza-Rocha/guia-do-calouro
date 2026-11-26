@@ -11,8 +11,3 @@ Este guia organiza informações úteis para estudantes que estão chegando à e
 - [Clubes e atividades](clubes-e-atividades.md)
 - [Contatos institucionais](contatos-institucionais.md)
 
-## Equipe
-
-- Organização, revisão e atualização do guia: responsável pelo repositório.
-
-> Os campos escolares que dependem de confirmação oficial serão preenchidos após conferência. Não inclua dados pessoais.
